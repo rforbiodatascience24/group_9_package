@@ -1,0 +1,31 @@
+Package: central.dogma.R
+Type: Package
+Title: Replication of the central dogma in R
+Version: 0.1.0
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Authors@R:
+  c(person(given = "Rebecca",
+           family = "Millum",
+           role = c("aut", "cre"), # There must be a "cre", but there can only be one
+           email = "s215024@student.dtu.dk"), 
+    person(given = "Marco",
+           family = "Andreis",
+           role = "aut",
+           email = "andreismarco2002@gmail.com"),
+    person(given = "Anita",
+           family = "Hjort-Gregersen",
+           role = "aut",
+           email = "s201190@student.dtu.dk"),
+    person(given = "Magnus",
+           family = "Harthimmer",
+           role = "aut",
+           email = "x"),
+    person(given = "Asiya Mohamad Yusuf",
+           family = "Muse",
+           role = "aut",
+           email = "asiyamuse6@gmail.com"))
