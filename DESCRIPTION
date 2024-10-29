@@ -9,7 +9,7 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Authors@R:
-  c(person(given = "Rebecca",
+  c(person(given = "Rebecca H.",
            family = "Millum",
            role = c("aut", "cre"), # There must be a "cre", but there can only be one
            email = "s215024@student.dtu.dk"), 
