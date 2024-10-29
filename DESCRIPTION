@@ -29,3 +29,6 @@ Authors@R:
            family = "Muse",
            role = "aut",
            email = "asiyamuse6@gmail.com"))
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.3
